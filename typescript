@@ -1,0 +1,592 @@
+Script started on 2021-01-04 01:07:12+08:00 [TERM="xterm" TTY="/dev/pty0" COLUMNS="103" LINES="58"]
+]0;~/checkpoint 3
+[32mUSER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[0m
+$ make clean
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym
+rm: cannot remove '*.ihx': No such file or directory
+rm: cannot remove '*.lnk': No such file or directory
+make: *** [Makefile:25: clean] Error 1
+]0;~/checkpoint 3
+[32mUSER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[0m
+$ make
+sdcc -c  testpreempt.c
+[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[12;1H[?25h[?25ltestpreempt.c:69: [?25h[?25lwarning 158: overflow in implicit constant conversion
+[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[13;1H[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[13;1H[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[13;1H[?25hsdcc -c  preemptive.c
+[?25lpreemptive.c:179: [?25h[?25lwarning 85: in function ThreadCreate unreferenced function argument : 'fp'
+[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+sdcc -c  preemptive.c[82X[82C
+preemptive.c:179: warning 85: in function ThreadCreate unreferenced function argument : 'fp'[11X[11C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[15;1H[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+sdcc -c  preemptive.c[82X[82C
+preemptive.c:179: warning 85: in function ThreadCreate unreferenced function argument : 'fp'[11X[11C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[15;1H[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+sdcc -c  preemptive.c[82X[82C
+preemptive.c:179: warning 85: in function ThreadCreate unreferenced function argument : 'fp'[11X[11C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[15;1H[?25hsdcc  -o testpreempt.hex testpreempt.rel preemptive.rel
+[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+sdcc -c  preemptive.c[82X[82C
+preemptive.c:179: warning 85: in function ThreadCreate unreferenced function argument : 'fp'[11X[11C
+sdcc  -o testpreempt.hex testpreempt.rel preemptive.rel[48X[48C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[16;1H[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+sdcc -c  preemptive.c[82X[82C
+preemptive.c:179: warning 85: in function ThreadCreate unreferenced function argument : 'fp'[11X[11C
+sdcc  -o testpreempt.hex testpreempt.rel preemptive.rel[48X[48C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[16;1H[?25h[?25l[H[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make clean[91X[91C
+rm *.hex *.ihx *.lnk *.lst *.map *.mem *.rel *.rst *.sym[47X[47C
+rm: cannot remove '*.ihx': No such file or directory[51X[51C
+rm: cannot remove '*.lnk': No such file or directory[51X[51C
+make: *** [Makefile:25: clean] Error 1[65X[65C
+[103X[103C[32m
+USER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[m[68X[68C
+$ make[97X[97C
+sdcc -c  testpreempt.c[81X[81C
+testpreempt.c:69: warning 158: overflow in implicit constant conversion[32X[32C
+sdcc -c  preemptive.c[82X[82C
+preemptive.c:179: warning 85: in function ThreadCreate unreferenced function argument : 'fp'[11X[11C
+sdcc  -o testpreempt.hex testpreempt.rel preemptive.rel[48X[48C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C
+[103X[103C[16;1H[?25h]0;~/checkpoint 3
+[32mUSER@LAPTOP-6TT6RA2U [33m~/checkpoint 3[0m
+$ exit
+exit
+
+Script done on 2021-01-04 01:07:21+08:00 [COMMAND_EXIT_CODE="0"]
